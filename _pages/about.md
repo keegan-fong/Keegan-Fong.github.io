@@ -12,15 +12,18 @@ title: "About Keegan Fong"
   * Minor in History
 
 * Universidad Carlos III de Madrid (January-June 2022)
+  
   CIEE study abroad program
   
 ## Professional Experience
 
 Undergraduate Researcher (June 2022 - December 2022)
-  *Vanderbilt University, Nashville TN*
+ 
+ *Vanderbilt University, Nashville TN*
   
  NASA Intern (March 2018 - July 2018)
-   *Center for Space Research, Austin TX*
+  
+  *Center for Space Research, Austin TX*
    
    
 ## Technical Skills
