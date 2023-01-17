@@ -13,12 +13,12 @@ feature_row:
   - image_path: assets/img/syringepump.jpg
     alt: "Syringe Pump"
     title: "3D Printed Syringe Pump"
-    excerpt: "Project completed for Digital Fabrication class."
+    excerpt: "Syringe pump developed using both off-the-self components and custom 3D printed parts"
   - image_path: assets/img/boat.jpg
     alt: "Boat system"
     title: "Senior Design Project"
     excerpt: "Development of a low-cost, autonomous modular submerisible."
-  - image_path: assets/img/IMG_8254.JPG
+  - image_path: assets/img/IMG_8250.jpg
     title: "Liquification Sensors"
     excerpt: "Creation of a sensor array to detect liquification under bridge abutments due to seismic activity"
 ---
