@@ -18,7 +18,7 @@ feature_row:
     alt: "Boat system"
     title: "Senior Design Project"
     excerpt: "Development of a low-cost, autonomous modular submerisible."
-  - image_path: assets/img/IMG_8254.jpg
+  - image_path: assets/img/IMG_8254.JPG
     title: "Liquification Sensors"
     excerpt: "Creation of a sensor array to detect liquification under bridge abutments due to seismic activity"
 ---
