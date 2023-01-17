@@ -16,6 +16,8 @@ title: "About Keegan Fong"
   
 ## Professional Experience
 
+Keegan will be working as a software implementation consultant with Manhattan Associates following graduation.
+
 * **Undergraduate Researcher** - Nashille, TN
    * Vanderbilt University
    * June 2022 - December 2022
@@ -66,4 +68,4 @@ Keegan's victory in the WREG knowledge bowl tournament in 2019 was written about
 
 Keegan won a NMSC award and was written about in [this local paper article.](https://lakelandcurrents.com/keegan-fong-receives-georgia-pacific-scholarship/)
 
-<img src="/assets/img/David_Headshot_web2.jpg" alt="David Florian" style="width:200px;"/>
+<img src="/assets/img/unnamed (5).jpg" alt="Keegan Fong" style="width:200px;"/>
