@@ -1,19 +1,24 @@
 ---
 
-title: "About David Florian"
+title: "About Keegan Fong"
 
 ---
 
 ## Education
 
-David prides himself on his diverse skill set. His most prominent fields of expertise are additive manufacturing (i.e., 3D printing) and biotechnology. 
+* Vanderbilt University (August 2019-May 2023)
+  * BS Mechanical Engineering
+  * Minor in Digital Fabrication
+  * Minor in History
 
-* University of Virginia
-  * BS Mathematics
-  * BS Biomedical Engineering
-* Vanderbilt University
-  * PhD Biomedical Engineering
+* Universidad Carlos III de Madrid (January-June 2022)
+  * CIEE study abroad program
+  
+## Professional Experience
 
+# Undergraduate Researcher
+  ## Vanderbilt University (June 2022 - December 2022)
+   
 ## Technical Skills
 
 David can operate a number of different computer controlled (CNC) fabrication tools to turn 3D models into real-life parts. David has experience with the following additive manufacturing technologies:
