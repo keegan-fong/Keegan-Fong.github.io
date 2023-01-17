@@ -68,4 +68,4 @@ Keegan's victory in the WREG knowledge bowl tournament in 2019 was written about
 
 Keegan won a NMSC award and was written about in [this local paper article.](https://lakelandcurrents.com/keegan-fong-receives-georgia-pacific-scholarship/)
 
-<img src="/assets/img/unnamed (5).jpg" alt="Keegan Fong" style="width:200px;"/>
+<img src="/assets/img/keegan1.jpg" alt="Keegan Fong" style="width:200px;"/>
