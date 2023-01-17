@@ -17,11 +17,11 @@ title: "About Keegan Fong"
   
 ## Professional Experience
 
-Undergraduate Researcher (June 2022 - December 2022)
+* Undergraduate Researcher (June 2022 - December 2022)
  
  *Vanderbilt University, Nashville TN*
   
- NASA Intern (March 2018 - July 2018)
+ * NASA Intern (March 2018 - July 2018)
   
   *Center for Space Research, Austin TX*
    
