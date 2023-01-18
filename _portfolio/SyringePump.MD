@@ -18,21 +18,20 @@ gallery:
 
 ## Off the Shelf Components
 
-Item | Quantity | # In stock
 ---|---|---
-200 mm lead screw w/ 2mm lead | 1 | /assets/img/image2.jpg
-1/4" x 8mm Flexible Coupling | 1 | /assets/img/image7.jpg
-200 mm linear rod with 8 mm diameter | 2 | /assets/img/image12.jpg
-LM8UU Linear bearing for 8 mm diameter rod | 2 | /assets/img/image22.jpg
-2040 Aluminum Extrusion 1' Length | 1 | /assets/img/image15.jpg
-Nema 17 Stepper Motor | 1 | /assets/img/image11.jpg
-MEAN WELL RQ-65D AC-DC Power Supply Quad Output 5V 12V 24V 12V 4 Amp | 1 | /assets/img/image24.jpg
-Arduino Uno | 1 | /assets/img/image20.jpg
-A4988 Stepper Driver | 1 | /assets/img/image6.jpg
-Small Breadboard | 1 | /assets/img/image18.jpg
-Panel Mount Latching Push Buttons | 2 | /assets/img/image9.jpg
-Limit Switch| 1 | /assets/img/image26.jpg
-RGB Common Cathode LED | 3 | /assets/img/image23.jpg
+200 mm lead screw w/ 2mm lead | 1 | "/assets/img/image2.jpg"
+1/4" x 8mm Flexible Coupling | 1 | "/assets/img/image7.jpg"
+200 mm linear rod with 8 mm diameter | 2 | "/assets/img/image12.jpg"
+LM8UU Linear bearing for 8 mm diameter rod | 2 | "/assets/img/image22.jpg"
+2040 Aluminum Extrusion 1' Length | 1 | "/assets/img/image15.jpg"
+Nema 17 Stepper Motor | 1 | "/assets/img/image11.jpg"
+MEAN WELL RQ-65D AC-DC Power Supply Quad Output 5V 12V 24V 12V 4 Amp | 1 | "/assets/img/image24.jpg"
+Arduino Uno | 1 | "/assets/img/image20.jpg"
+A4988 Stepper Driver | 1 | "/assets/img/image6.jpg"
+Small Breadboard | 1 | "/assets/img/image18.jpg"
+Panel Mount Latching Push Buttons | 2 | "/assets/img/image9.jpg"
+Limit Switch| 1 | "/assets/img/image26.jpg"
+RGB Common Cathode LED | 3 | "/assets/img/image23.jpg"
 
 
 
