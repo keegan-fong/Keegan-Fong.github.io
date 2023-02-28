@@ -13,9 +13,10 @@ gallery:
 
 # Features
 
-* **Massive Print Area: 1140 x 1200 x 1100 mm.** With a build envelop just shy of 4 feet in all dimensions, the LF3DP is capable of printing furniture and other large objects.
-* **High Volumetric Output Extruder: 1 kg/hr - 450 C.** This printer come standard with a MDPH2 extruder by Massive Dimension, which can extrude at a rate of 1 kg/hr. Unlike typical filament extruders, the MDPH2 uses a screw to convey and liquify plastic pellets before the molten material is pushed out of a large nozzle (1 to 5 mm extrusion diameter). Please note: This printer can also be configured for other high flow rate extruders, such as the Typhoon and Pulsar by Dyze Design.
-* **Affordable Pellet Feedstock** Pellets are the cheapest form of feedstock for any plastic-based manufacturing process. Save 50-75% of material costs by using pellets instead of spools of filament. Concentrated colorant can be added to the virgin material to achieve any color in the rainbow without requiring large amounts of storage. Recyled material can also be used for sustainable material printing.
+3D printing provides an easy and cost-effective method to create useful objects which can function just as well as commercially available products. This project attempted to test the capabilities of 3D printed products, with the goal of creating a custom-designed tool which functions the same as the traditional pliers that one might find at a hardware store. 
+
+Pliers operate off basic translation of force; when a user squeezes the two arms of the tool, the pinching end of the mechanism closes together. This is useful when it is necessary to pick up objects, squeeze two items together, or apply a pinching force on an object. For this project, our designed pliers needed to grip and release small plastic pellets, roughly 3 millimeters in diameter; successfully being able to accomplish this goal would reasonably demonstrate the plier’s ability to provide a mechanical advantage. 
+
 
 # CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH35dfcQT936092f0e43088453616563cf27?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
