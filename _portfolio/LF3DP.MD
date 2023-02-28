@@ -1,6 +1,6 @@
 ---
 title: "Print-in-Place Pliers"
-excerpt: ""Pliers" are just fancy chopsticks"
+excerpt: "Pliers are just fancy chopsticks"
 header:
   image: /assets/img/LF3DP-Banner-2.jpg
   teaser: /assets/img/Large-Format-3D-Printer-Thumbnail.png
