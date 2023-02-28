@@ -2,8 +2,8 @@
 title: "Print-in-Place Pliers"
 excerpt: "Pliers are just fancy chopsticks"
 header:
-  image: /assets/img/IMG_9924.jpg
-  teaser: /assets/img/IMG_9924.jpg
+  image: /assets/img/IMG_9224.jpg
+  teaser: /assets/img/IMG_9224.jpg
 gallery:
   - image_path: assets/img/Slide-3.png
   - image_path: assets/img/Slide-2.png
