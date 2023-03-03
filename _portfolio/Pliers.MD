@@ -17,7 +17,7 @@ work in progress
 
 3D printing provides an easy and cost-effective method to create useful objects which can function just as well as commercially available products. This project attempted to test the capabilities of 3D printed products, with the goal of creating a custom-designed tool which functions the same as the traditional pliers that one might find at a hardware store. 
 
-Pliers operate off basic translation of force; when a user squeezes the two arms of the tool, the pinching end of the mechanism closes together. This is useful when it is necessary to pick up objects, squeeze two items together, or apply a pinching force on an object. For this project, our designed pliers needed to grip and release small plastic pellets, roughly 3 millimeters in diameter; successfully being able to accomplish this goal would reasonably demonstrate the plier’s ability to provide a mechanical advantage. 
+Pliers operate off basic translation of force; when a user squeezes the two arms of the tool, the pinching end of the mechanism closes together. This is useful when it is necessary to pick up objects, squeeze two items together, or apply a pinching force on an object. For this project, our designed pliers needed to grip and release small plastic pellets, roughly 3 millimeters in diameter; successfully being able to accomplish this goal would reasonably demonstrate the plier’s ability to provide a mechanical advantage. My designed pliers would be put in competition with 12 other designed sets of pliers, to determine how efficiently and easy it would be to pick up the pellets in a designated time frame. 
 
 
 # CAD Model
