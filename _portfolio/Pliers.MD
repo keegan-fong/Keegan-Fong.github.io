@@ -4,11 +4,7 @@ excerpt: "Pliers are just fancy chopsticks."
 header:
   image: /assets/img/IMG_9224.jpg
   teaser: /assets/img/IMG_9224.jpg
-gallery:
-  - image_path: assets/img/IMG_9224.jpg
-  - image_path: assets/img/finaldesign.jpg
-  - image_path: assets/img/design1.jpg
-   
+  
 ---
 
 # Background
