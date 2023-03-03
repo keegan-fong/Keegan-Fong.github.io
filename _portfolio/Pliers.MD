@@ -13,12 +13,14 @@ gallery:
 I am literally working on this at this very moment.
 
 
-# Features
+# Background
 
 3D printing provides an easy and cost-effective method to create useful objects which can function just as well as commercially available products. This project attempted to test the capabilities of 3D printed products, with the goal of creating a custom-designed tool which functions the same as the traditional pliers that one might find at a hardware store. 
 
 Pliers operate off basic translation of force; when a user squeezes the two arms of the tool, the pinching end of the mechanism closes together. This is useful when it is necessary to pick up objects, squeeze two items together, or apply a pinching force on an object. For this project, our designed pliers needed to grip and release small plastic pellets, roughly 3 millimeters in diameter; successfully being able to accomplish this goal would reasonably demonstrate the plier’s ability to provide a mechanical advantage. My designed pliers would be put in competition with 12 other sets of pliers, to determine which design provided the most efficient and greatest ability to pick up the pellets in a designated time frame. 
 
+# Multimaterial Printing.
+Because of the way that pliers function, an elastic component is necessary to maintain the starting orientation of the tool while also providing the opportunity to compress the pinching end. However, the entire pliers cannot be made of an elastic material; to maintain its strucutural integrity, have high durability against wear, and for easier application of force, the arms and the pinching heads of the pliers should be made of a more rigid material. These considerations are a challenge to traditional standard 3D printers, which can only print one type of plastic at a time. Additionally, printing of multiple components with seperate printers incur additional costs in manufacturing, add complexity in development, and remove the conveinence of creating tools that can be immediately used once removed off the print bed. With these challenges, multimaterial printing provides the opportunity for the creation of print-in-place items.  
 
 # CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH35dfcQT936092f0e432a92c466ad2224e2?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
