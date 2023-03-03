@@ -24,7 +24,16 @@ Because of the way that pliers function, an elastic component is necessary to ma
 
 These challenges can be overcome, however, with the usage of multimaterial printing.  Multimaterial machines allow for two different types of material to be laid down in one continuous print, providing the opportunity for the creation of print-in-place items which do not require post-processing or additional assembly. By designing the pliers to be print-in-place, the tools will be available for immediate use once completely printed. A multimaterial printer will allow for the elastic components of the pliers to be printed in the flexible 95A TPU, and the rigid components to be printed with standard PLA. 
 
+# Design
+
+Standard commercially available pliers, such as the ones seen below, were analyzed before developing the custom-designed pliers.
+
 <img src="/assets/img/pliers.jpeg" alt="pliers" style="width:200px;"/>
+
+It was determined that emulating the force translation mechanism of these pliers would provide the best final product. In designing the arms of the pliers, mechanical advantage and comfort of the user were the highest priority. The arm consists of a 70 mm long handle which then transitions into an overhanging crossing bar. The crossing bar connects to the gripping end, which is 50 mm long and provides extended reach. The final design employs the usage of two arms, the other arm being a mirrored version of the first one. To create a pivot point, a cylindrical pin is slotted through the crossing bars; when overlaid, there is a gap between crossing bars in order to allow for clear movement of the arms. 
+
+These components are all intended to be composed of rigid material; however, in their current design, there would be no mechanism to return the pliers to an open position. Therefore, a flexible component is necessary to maintain an open orientation when no force is applied on the arms. In the first iteration of the design, narrow slots were cut into the interior sides of the arms near the front face of the pliers, to allow for a flexible mesh of 3 mm thickness to connect the handles. However, this was proven to be too thick, as the mesh did not bend and prevented the user from properly squeezing the pliers. When reduced to 1 mm, the mesh bent but disproportionately applied force to the front of the pliers. With these considerations, two meshes were designed, one placed near the front face and one near the back face of the pliers. This final design returned the arms to open position, providing sufficient resistance to squeezing while evenly distributing the force applied by the user’s hands. 
+
 
 
 # CAD Model
