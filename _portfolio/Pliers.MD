@@ -41,7 +41,7 @@ A successful print was completed with the initial design, the black model seen b
 
 With these considerations, two meshes were implemented into what ultimately became the final design, with one mesh placed near the front face and one near the back face of the pliers. After printing successfully, this final design proved to return the arms to open position, providing sufficient resistance to squeezing while evenly distributing the force applied by the user’s hands. 
 
-<img src="/assets/img/finaldesign.jpg" alt="successful design" style="width:275px;"/>
+<img src="/assets/img/finaldesign2.jpg" alt="successful design" style="width:275px;"/>
 
 ## CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH35dfcQT936092f0e432a92c466ad2224e2?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
