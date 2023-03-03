@@ -24,6 +24,7 @@ Because of the way that pliers function, an elastic component is necessary to ma
 
 These challenges can be overcome, however, with the usage of multimaterial printing.  Multimaterial machines allow for two different types of material to be laid down in one continuous print, providing the opportunity for the creation of print-in-place items which do not require post-processing or additional assembly. By designing the pliers to be print-in-place, the tools will be available for immediate use once completely printed. A multimaterial printer will allow for the elastic components of the pliers to be printed in the flexible 95A TPU, and the rigid components to be printed with standard PLA. 
 
+<img src="/assets/img/pliers.jpeg" alt="pliers" style="width:200px;"/>
 
 
 # CAD Model
