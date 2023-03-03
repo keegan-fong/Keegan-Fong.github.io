@@ -10,8 +10,6 @@ gallery:
   - image_path: assets/img/design1.jpg
    
 ---
-I am literally working on this at this very moment.
-
 
 # Background
 
@@ -47,8 +45,27 @@ With these considerations, two meshes were implemented into what ultimately beca
 
 <img src="/assets/img/finaldesign.jpg" alt="successful design" style="width:200px;"/>
 
-
-
 # CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH35dfcQT936092f0e432a92c466ad2224e2?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 {% include gallery caption="Print-in-place Pliers" %}
+
+# Results 
+The pliers were tested against 12 other designed models. The test consisted of using the pliers to pick up the 3 mm pellets and place them in a container, one at a time. Pliers were judged by the amount of pellets successfully moved in 45 seconds. In this test, these designed pliers placed 3rd, picking up 21 pellets in the allocated time. 
+
+# Print Settings
+General Settings:
+
+Bed Temperature: 60 degrees Celsius
+PLA extruder temperature: 215 degrees Celsius
+
+Specific TPU settings:
+Extruder Temperature: 235 degrees Celsius
+Maximum speed: 25 mm/s
+Retraction Speed: 15 mm/s
+
+
+
+
+
+
+
