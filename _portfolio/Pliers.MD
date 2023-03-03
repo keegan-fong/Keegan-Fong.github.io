@@ -35,6 +35,7 @@ These components are all intended to be composed of rigid material; however, in 
 <img src="/assets/img/design1.jpg" alt="failed first print" style="width:200px;"/>
 
 User error contributed to several failed prints. The next pliers printed were scaled down to minimize creation time, and to determine design proof of concept. However, because of this scaling down the pin connecting the two arms failed. The print can be seen in the photo below.
+
 <img src="/assets/img/design3.jpg" alt="failed second print" style="width:200px;"/>
 
 A successful print was completed with the initial design, the black model seen below. However, the mesh was proven to be too thick, as it did not bend and prevented the user from properly squeezing the pliers. As a result, the mesh was reduced to a thickness of 1 mm, as seen in the red model below. However, there were flaws with this design as well. Although bending properly, the 1 mm mesh was placed closer to the front face of the pliers and thus disproportionately applied force to the front of the pliers.
