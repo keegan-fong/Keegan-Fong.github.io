@@ -10,7 +10,7 @@ gallery:
   - image_path: assets/img/Slide-4.png
    
 ---
-work in progress
+I am literally working on this at this very moment.
 
 
 # Features
