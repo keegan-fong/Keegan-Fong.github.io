@@ -1,6 +1,6 @@
 ---
-title: "Print-in-Place Pliers"
-excerpt: "Pliers are just fancy chopsticks."
+title: "Microfluidic Device"
+excerpt: "Zigzagging to get the perfect mixture"
 header:
   image: /assets/img/pliers2.jpg
   teaser: /assets/img/pliers2.jpg
@@ -10,9 +10,8 @@ header:
 
 ## Background
 
-3D printing provides an easy and cost-effective method to create useful objects which can function just as well as commercially available products. This project attempted to test the capabilities of 3D printed products, with the goal of creating a custom-designed tool which functions the same as the traditional pliers that one might find at a hardware store. 
+Microfluidic devices are tiny devices with small flow channels that have been widely used in biomedical diagnostics, drug development, and the food and chemical industries. These devices are advantageous due to their high surface-to-volume ratio, but low Reynolds numbers in the channels limit the efficiency of diffusive mixing. To address this issue, microfluidic mixing schemes have been developed to achieve thorough and rapid mixing of multiple samples in microscale devices. Two categories of mixers have been proposed: active mixers, which use an external energy force to perturb the samples, and passive mixers, which increase the contact area and contact time of the species samples through specially-designed microchannel configurations. Passive mixing devices can mix samples within 55-300 ms, making them well-suited for high-throughput applications. Efficient mixing schemes are essential for increasing the throughput of microfluidic systems and realizing the concept of lab-on-a-chip systems.
 
-Pliers operate off basic translation of force; when a user squeezes the two arms of the tool, the pinching end of the mechanism closes together. This is useful when it is necessary to pick up objects, squeeze two items together, or apply a pinching force on an object. For this project, our designed pliers needed to grip and release small plastic pellets, roughly 3 millimeters in diameter; successfully being able to accomplish this goal would reasonably demonstrate the plier’s ability to provide a mechanical advantage. My designed pliers would be put in competition with 12 other sets of pliers, to determine which design provided the most efficient and greatest ability to pick up the pellets in a designated time frame. 
 
 ## Multimaterial Printing
 Because of the way that pliers function, an elastic component is necessary to maintain the starting orientation of the tool while also providing the opportunity to compress the pinching end. However, the entire pliers cannot be made of an elastic material; to maintain its structural integrity, have high durability against wear, and for easier application of force, the arms and the pinching heads of the pliers should be made of a more rigid material. These considerations are a challenge to traditional standard 3D printers, which can only print one type of plastic at a time. Additionally, printing of multiple components with separate printers incur additional costs in manufacturing, add complexity in development, and remove the convenience of creating tools that can be immediately used once removed off the print bed. 
