@@ -44,7 +44,7 @@ With these considerations, two meshes were implemented into what ultimately beca
 <img src="/assets/img/finaldesign2.jpg" alt="successful design" style="width:275px;"/>
 
 ## CAD Model
-<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH35dfcQT936092f0e432a92c466ad2224e2?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6ee4b2ab1210fc7ad9?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 ## Results 
 The pliers were tested against 12 other designed models. The test consisted of using the pliers to pick up the 3 mm pellets and place them in a container, one at a time. Pliers were judged by the amount of pellets successfully moved in 45 seconds. In this test, these designed pliers placed 3rd, picking up 21 pellets in the allocated time. 
