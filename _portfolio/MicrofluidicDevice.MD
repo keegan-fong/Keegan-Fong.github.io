@@ -2,8 +2,8 @@
 title: "Microfluidic Device"
 excerpt: "Zigzagging to get the perfect mixture"
 header:
-  image: /assets/img/pliers2.jpg
-  teaser: /assets/img/pliers2.jpg
+  image: /assets/img/microfluidic2.jpg
+  teaser: /assets/img/microfluidic2.jpg
   
 ---
 
