@@ -19,29 +19,13 @@ Additionally, the paper by Hong et al. presented a passive micromixer with a mod
 
 Therefore, we decided to implement zigzag microchannels in our microfluidic mixing device to enhance the mixing efficiency, particularly at low Reynolds number flows. By using the Coanda effect to guide the fluid streams to collide with one another, we aim to achieve a thorough and rapid mixing of multiple samples in microscale devices. We will investigate the effect of the periodic step value on the mixing efficiency in our experiments, and aim to optimize the zigzag geometry to achieve the highest mixing efficiency possible. With this approach, we hope to contribute to the development of efficient microfluidic mixing schemes, which are essential for increasing the throughput of microfluidic systems and realizing the concept of micro-total-analysis systems and lab-on-a-chip systems.
 
-## Design
+## Printing Method
 
-Standard commercially available pliers, such as the ones seen below, were analyzed before developing the custom-designed pliers.
+Vat polymerization is a type of 3D printing technique that has gained popularity in the fabrication of microfluidic devices due to its high resolution and ability to create complex geometries. One of the key advantages of vat polymerization is the ability to produce parts with a resolution down to a few microns, which is critical in microfluidics where feature sizes are typically in the sub-millimeter range.
+Additionally, vat polymerization allows for the fabrication of devices with smooth surfaces, which can minimize frictional losses and improve flow dynamics within microfluidic channels. This is important in microfluidic systems, where flow resistance is a key factor in determining the efficiency and performance of the device.
+Furthermore, vat polymerization is a highly versatile technique that can be used to print a wide range of materials, including both rigid and flexible polymers. This allows for the fabrication of microfluidic devices with a wide range of mechanical properties, which can be tailored to specific applications.
+Overall, the high resolution, smooth surface finish, and versatility of vat polymerization make it an ideal choice for the fabrication of microfluidic devices. By leveraging the unique capabilities of this technology, we can create highly functional and efficient microfluidic devices that are tailored to meet the specific needs of our application.
 
-<img src="/assets/img/pliers.jpeg" alt="pliers" style="width:200px;"/>
-
-It was determined that emulating the force translation mechanism of these pliers would provide the best final product. In designing the arms of the pliers, mechanical advantage and comfort of the user were the highest priority. The arm consists of a 70 mm long handle which then transitions into an overhanging crossing bar. The crossing bar connects to the gripping end, which is 50 mm long and provides extended reach. The final design employs the usage of two arms, the other arm being a mirrored version of the first one. To create a pivot point, a cylindrical pin is slotted through the crossing bars; when overlaid, there is a gap between crossing bars in order to allow for clear movement of the arms. 
-
-These components are all intended to be composed of rigid material; however, in their current design, there would be no mechanism to return the pliers to an open position. Therefore, a flexible component is necessary to maintain an open orientation when no force is applied on the arms. In the first iteration of the design, narrow slots were cut into the interior sides of the arms near the front face of the pliers, to allow for a flexible mesh of 3 mm thickness to connect the handles. The TPU failed to print properly for this first iteration, as seen below. 
-
-<img src="/assets/img/design1.jpg" alt="failed first print" style="width:120px;"/>
-
-User error contributed to several failed prints. The next pliers printed were scaled down to minimize creation time, and to determine design proof of concept. However, because of this scaling down the pin connecting the two arms failed. The print can be seen in the photo below.
-
-<img src="/assets/img/design3.jpg" alt="failed second print" style="width:90px;"/>
-
-A successful print was completed with the initial design, the black model seen below. However, the mesh was proven to be too thick, as it did not bend and prevented the user from properly squeezing the pliers. As a result, the mesh was reduced to a thickness of 1 mm, as seen in the red model below. However, there were flaws with this design as well. Although bending properly, the 1 mm mesh was placed closer to the front face of the pliers and thus disproportionately applied force to the front of the pliers.
-
-<img src="/assets/img/design4.jpg" alt="problems with mesh" style="width:275px;"/>
-
-With these considerations, two meshes were implemented into what ultimately became the final design, with one mesh placed near the front face and one near the back face of the pliers. After printing successfully, this final design proved to return the arms to open position, providing sufficient resistance to squeezing while evenly distributing the force applied by the user’s hands. 
-
-<img src="/assets/img/finaldesign2.jpg" alt="successful design" style="width:275px;"/>
 
 ## CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6ee4b2ab1210fc7ad9?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
