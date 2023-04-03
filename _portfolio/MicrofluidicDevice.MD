@@ -1,6 +1,6 @@
 ---
 title: "Microfluidic Device"
-excerpt: "Zigzagging to get the perfect mixture"
+excerpt: "Big results from a tiny device"
 header:
   image: /assets/img/microfluidic2.jpg
   teaser: /assets/img/microfluidic2.jpg
@@ -10,7 +10,7 @@ header:
 
 ## Background
 
-Microfluidic devices are tiny devices with small flow channels that have been widely used in biomedical diagnostics, drug development, and the food and chemical industries. These devices are advantageous due to their high surface-to-volume ratio, but low Reynolds numbers in the channels limit the efficiency of diffusive mixing. To address this issue, microfluidic mixing schemes have been developed to achieve thorough and rapid mixing of multiple samples in microscale devices. Two categories of mixers have been proposed: active mixers, which use an external energy force to perturb the samples, and passive mixers, which increase the contact area and contact time of the species samples through specially-designed microchannel configurations. Passive mixing devices can mix samples within 55-300 ms, making them well-suited for high-throughput applications. Efficient mixing schemes are essential for increasing the throughput of microfluidic systems and realizing the concept of lab-on-a-chip systems.
+Microfluidic devices are tiny devices with small flow channels that have been widely used in biomedical diagnostics, drug development, and the food and chemical industries. These devices are advantageous due to their high surface-to-volume ratio, but low Reynolds numbers in the channels limit the efficiency of diffusive mixing. To address this issue, microfluidic mixing schemes have been developed to achieve thorough and rapid mixing of multiple samples in microscale devices. There are two categories of mixers: active mixers, which use an external energy force to perturb the samples, and passive mixers, which increase the contact area and contact time of the species samples through specially-designed microchannel configurations. Passive mixing devices can mix samples within 55-300 ms, making them well-suited for high-throughput applications. Efficient mixing schemes are essential for increasing the throughput of microfluidic systems and realizing the concept of lab-on-a-chip systems.
 
 
 ## Zigzag Design
