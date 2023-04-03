@@ -29,6 +29,7 @@ Utilizing the design ratio of 8:1 length to thickness ratio, which emulates the 
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6ee4b2ab1210fc7ad9?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 ## Results 
+After the mold was successfully created using VPP technology, it was prepared such that PDMS (polydimethylsiloxane) could be casted. In this preparation, smudging and improper touching of the applied film may have induced problems for the casting process. The mold was placed in a vacuum and PDMS was applied in the mold. 
 
 
 
