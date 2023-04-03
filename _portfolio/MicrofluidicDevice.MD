@@ -14,8 +14,7 @@ Microfluidic devices are tiny devices with small flow channels that have been wi
 
 
 ## Zigzag Design
-The decision to implement zigzag microchannels in our microfluidic mixing device was based on the promising results presented in the paper by Mengeaud et al. In this study, the authors investigated the effect of the periodic step value on the mixing efficiency in a zigzag microchannel with a Y inlet junction. They found that for low Reynolds number flows, the most efficient zigzag configuration had a periodic step value of 800 μm, resulting in a mixing efficiency of 83.8%. For higher Reynolds numbers, there was an optimal zigzag geometry that resulted in a mixing efficiency of up to 98.6%.
-Additionally, the paper by Hong et al. presented a passive micromixer with a modified Tesla structure that also achieved excellent mixing performance at higher flow rates. However, at lower flow rates, the mixer was constrained to the diffusive mixing regime, resulting in limited mixing performance.
+For this project, myself and a partner sought to create an effective microfluidic device utilizing innovative manufacturing techniques. In doing background research on microfluidic devices, the paper "Microfluidic Mixing: A Review" by Lee, Chang, Wang, and Fu was discovered which provided useful information on the design of the devices. Based on the promising results presented in the paper, the decision was made to implement zigzag microchannels in our microfluidic mixing device. In the study, the authors investigated the effect of the periodic step value on the mixing efficiency in a zigzag microchannel with a Y inlet junction. The paper also investigated the most efficent They found that for low Reynolds number flows, the most efficient zigzag configuration had a periodic step value of 800 μm, resulting in a mixing efficiency of 83.8%. For higher Reynolds numbers, there was an optimal zigzag geometry that resulted in a mixing efficiency of up to 98.6%.
 
 Therefore, we decided to implement zigzag microchannels in our microfluidic mixing device to enhance the mixing efficiency, particularly at low Reynolds number flows. By using the Coanda effect to guide the fluid streams to collide with one another, we aim to achieve a thorough and rapid mixing of multiple samples in microscale devices. We will investigate the effect of the periodic step value on the mixing efficiency in our experiments, and aim to optimize the zigzag geometry to achieve the highest mixing efficiency possible. With this approach, we hope to contribute to the development of efficient microfluidic mixing schemes, which are essential for increasing the throughput of microfluidic systems and realizing the concept of micro-total-analysis systems and lab-on-a-chip systems.
 
@@ -31,20 +30,8 @@ Overall, the high resolution, smooth surface finish, and versatility of vat poly
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6ee4b2ab1210fc7ad9?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 ## Results 
-The pliers were tested against 12 other designed models. The test consisted of using the pliers to pick up the 3 mm pellets and place them in a container, one at a time. Pliers were judged by the amount of pellets successfully moved in 45 seconds. In this test, these designed pliers placed 3rd, picking up 21 pellets in the allocated time. 
 
 ## Print Settings
-### General Settings:
-Bed Temperature: 60 degrees Celsius
-
-PLA extruder temperature: 215 degrees Celsius
-
-### Specific TPU settings:
-Extruder Temperature: 235 degrees Celsius
-
-Maximum speed: 25 mm/s
-
-Retraction Speed: 15 mm/s
 
 
 
