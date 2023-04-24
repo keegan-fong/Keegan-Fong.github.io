@@ -29,13 +29,13 @@ Utilizing the design ratio of 8:1 length to thickness ratio, which emulates the 
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6ee4b2ab1210fc7ad9?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 ## Results 
-<img src="/assets/img/microfluidic2.jpg" alt="VPP printed device mold" style="width:550px;"/>
+<img src="/assets/img/microfluidic2.jpg" alt="VPP printed device mold" style="width:590px;"/>
 After the mold was successfully created using VPP technology, it was prepared such that PDMS (polydimethylsiloxane) could be casted. In this preparation, smudging and improper touching of the applied film may have induced problems for the casting process. The mold was placed in a vacuum and PDMS was applied in the mold. Two versions of the mold were created, due in part to treatment errors in the mold creation process. Only one was used and had a clear test plate applied to the channel side. 
 <img src="/assets/img/print.jpg" alt="VPP printed device mold" style="width:550px;"/>
 
 This device suffered from additional problems, due to complications in the mold creation process that was out of our control. As a result, the outlet hole for the microfluidic device collapsed and could not be properly used in testing. Testing involved utilizing syringes to pump colored water into each of the inlet pipes, observing the mixing capabilities, and drawing out the mixed liquid into a seperate container. However, with the previously mentioned complications, results from this process remained inconclusive. 
 
-<img src="/assets/img/testing.jpg" alt="VPP printed device mold" style="width:550px;"/>
+<img src="/assets/img/results.jpg" alt="VPP printed device mold" style="width:550px;"/>
 
 
 
