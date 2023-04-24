@@ -35,7 +35,7 @@ After the mold was successfully created using VPP technology, it was prepared su
 
 This device suffered from additional problems, due to complications in the mold creation process that was out of our control. As a result, the outlet hole for the microfluidic device collapsed and could not be properly used in testing. Testing involved utilizing syringes to pump colored water into each of the inlet pipes, observing the mixing capabilities, and drawing out the mixed liquid into a seperate container. However, with the previously mentioned complications, results from this process remained inconclusive. 
 
-<img src="/assets/img/results.jpg" alt="VPP printed device mold" style="width:550px;"/>
+<img src="/assets/img/results2.PNG" alt="VPP printed device mold" style="width:550px;"/>
 
 
 
