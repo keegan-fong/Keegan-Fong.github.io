@@ -18,9 +18,9 @@ feature_row:
     alt: "Boat system"
     title: "Senior Design Project"
     excerpt: "Development of a low-cost, autonomous modular submerisible."
-  - image_path: assets/img/IMG_8250.jpg
-    title: "Liquification Sensors"
-    excerpt: "Creation of a sensor array to detect liquification under bridge abutments due to seismic activity"
+  - image_path: /assets/img/pliers2.jpg
+    title: "Print in Place Pliers"
+    excerpt: "Custom designed 3D-printed pliers that can be used immediately"
 ---
 
 {% include feature_row %}
