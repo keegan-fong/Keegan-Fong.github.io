@@ -2,8 +2,8 @@
 title: "Print-in-Place Pliers"
 excerpt: "Pliers are just fancy chopsticks."
 header:
-  image: /assets/img/pliers2.jpg
-  teaser: /assets/img/pliers2.jpg
+  image: /assets/img/podium2.PNG
+  teaser: /assets/img/podium2.PNG
   
 ---
 
