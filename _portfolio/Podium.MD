@@ -3,7 +3,7 @@ title: "Generative Design Podium (work in progress)"
 excerpt: "When Innovation meets Elegance"
 header:
   image: /assets/img/pliers2.jpg
-  teaser: 
+  teaser: /assets/img/pliers2.jpg
   
 ---
 
