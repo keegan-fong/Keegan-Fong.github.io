@@ -2,8 +2,8 @@
 title: "Generative Design Podium (work in progress)"
 excerpt: "When Innovation meets Elegance"
 header:
-  image: /assets/img/podium2.jpg
-  teaser: /assets/img/podium2.jpg
+  image: /assets/img/podium2.PNG
+  teaser: /assets/img/podium2.PNG
   
 ---
 
