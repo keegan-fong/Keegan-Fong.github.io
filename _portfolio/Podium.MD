@@ -43,6 +43,7 @@ Additionally, the integration of artificial intelligence and machine learning co
 
 In conclusion, the combination of GD and LF3DP technologies presents a promising solution to the challenges associated with traditional residential construction methods. By leveraging these technologies, architects and engineers can generate optimized designs that are efficient, sustainable, and customizable, while LF3DP can fabricate building components with speed and precision. While there are still challenges to overcome, ongoing research and development in sustainable materials, improved production quality, and methods to further optimize generative design, are paving the way for the widespread adoption of these technologies in the residential construction industry.
 
+### Sources
 
 Abou Yassin, AbdAllah, Farook Hamzeh, and Fatima Al Sakka. “Agent Based Modeling to Optimize Workflow of Robotic Steel and Concrete 3D Printers.” Automation in Construction 110 (February 1, 2020): 103040. https://doi.org/10.1016/j.autcon.2019.103040.
 
