@@ -8,6 +8,9 @@ header:
 ---
 
 
+
+## Research
+
 Large format 3D printing (LF3DP) and generative design are two emerging technologies developed in recent years with potentially monumental impact on commercial applications like residential construction. LF3DP is a technology which employs large scale 3D printers that can create building components, while GD utilizes algorithmic based design to meet specific criteria regarding efficiency, material usage, and structural strength. Both LF3DP and GD have the potential to revolutionize traditional construction methods and address the associated challenges with sustainability and customization within the industry. 
 
 Traditional methods used in residential construction have long struggled with finding ways to decrease overall costs; oftentimes, finding decreased costs comes at the expense of the industry’s environmental impact. This environmental impact often is impacted by the industry’s inefficiency, stemming from the use of standardized building components that are often manufactured off-site and assembled on-site. This process can be time-consuming, as multiple transportation and handling processes are involved. Furthermore, it is often costly and wasteful, leading to increased material waste and carbon emissions. As a result, builders are constantly seeking more efficient, cost-effective, and sustainable solutions to meet the growing demands of the construction industry.
