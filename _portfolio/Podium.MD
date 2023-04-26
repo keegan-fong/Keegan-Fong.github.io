@@ -7,6 +7,12 @@ header:
   
 ---
 
+## Model
+
+<img src="/assets/img/preserve.png" alt="preserve" style="width:200px;"/>
+<img src="/assets/img/obstacle.png" alt="obstacle" style="width:200px;"/>
+
+
 
 
 ## Research
