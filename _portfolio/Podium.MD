@@ -21,12 +21,6 @@ The final model also contains space on the central support column to contain the
 
 <iframe src="https://vanderbilt817.autodesk360.com/shares/public/SH512d4QTec90decfa6e92c32fe76d207748?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-
-
-
-
-
-
 ## Research
 
 Large format 3D printing (LF3DP) and generative design are two emerging technologies developed in recent years with potentially monumental impact on commercial applications like residential construction. LF3DP is a technology which employs large scale 3D printers that can create building components, while GD utilizes algorithmic based design to meet specific criteria regarding efficiency, material usage, and structural strength. Both LF3DP and GD have the potential to revolutionize traditional construction methods and address the associated challenges with sustainability and customization within the industry. 
