@@ -9,7 +9,7 @@ header:
 
 ## Model
 
-<iframe src="https://vanderbilt817.autodesk360.com/shares/public/SH512d4QTec90decfa6e92c32fe76d207748?mode=embed" width="1024" height="768" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+<iframe src="https://vanderbilt817.autodesk360.com/shares/public/SH512d4QTec90decfa6e92c32fe76d207748?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 <img src="/assets/img/preserve.PNG" alt="preserve" style="width:200px;"/>
 <img src="/assets/img/obstacle.PNG" alt="obstacle" style="width:200px;"/>
