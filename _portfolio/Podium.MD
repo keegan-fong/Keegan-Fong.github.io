@@ -9,10 +9,20 @@ header:
 
 ## Model
 
-<iframe src="https://vanderbilt817.autodesk360.com/shares/public/SH512d4QTec90decfa6e92c32fe76d207748?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+This project focused on using Generative Design (GD) to produce a model that would be able to be printed on a large format 3D printer and function as a full scale, usable podium. Specific design constraints were considered, including the overall shape of the podium, the overhangss and bridging on the model, and the podium's ability to withstand significant stress and shear forces. The design began with the basic concept of a standard podium with two shelves, a slanted top, and a triangular shaped column. Preserve geometry was created to form the shelving, base, and the slanted top which rested at a at 15 degree angle off the central support column. Forces of 150-250 pounds were applied on these various components to simulate a person using their full force to either lean or press down on the podium. 
 
 <img src="/assets/img/preserve.PNG" alt="preserve" style="width:200px;"/>
+
+The podium was modeled to be made out of standard PLA, and initial generated designs had components bleed outside of the desired podium frame. Therefore, encompassing obstacle geometries were added to keep the podium within specific width and length parameters. The final model sits within a 70 x 50 cm space. 
+
 <img src="/assets/img/obstacle.PNG" alt="obstacle" style="width:200px;"/>
+
+The final model also contains space on the central support column to contain the etching of the Vanderbilt logo, as well as identifying labels.
+
+<iframe src="https://vanderbilt817.autodesk360.com/shares/public/SH512d4QTec90decfa6e92c32fe76d207748?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+
+
 
 
 
